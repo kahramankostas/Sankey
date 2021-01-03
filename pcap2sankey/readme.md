@@ -2,10 +2,7 @@
 
 ```python
 from scapy.all import*
-import math
-import pandas as pd
 import os
-import numpy as np
 ```
 
 
